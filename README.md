@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy there 👋
 
 - 🔭 I’m currently working on notes.build and work at @rosettastone with the Web-apps team.
 - 🌱 I’m currently learning graphql and aws amplify.
