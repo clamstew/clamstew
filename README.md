@@ -1,7 +1,7 @@
 ### Howdy there 👋
 
-- 🔭 I’m currently working on notes.build and work at @rosettastone with the Web-apps team.
-- 🌱 I’m currently learning graphql and aws amplify.
+- 🔭 I’m currently working @shopify
+- 🌱 I’m making commerce better for everyone by playing an infinite game.
 - 📫 Reach me on twitter: [@clay_stewart](https://twitter.com/clay_stewart)
 - 😄 Pronouns: he / him
 
