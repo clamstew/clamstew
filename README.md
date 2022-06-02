@@ -1,7 +1,7 @@
 ### Howdy there 👋
 
 - 🔭 I’m currently working @shopify
-- 🌱 I’m making commerce better for everyone by playing an infinite game.
+- 🌱 I’m helping make commerce better for everyone.
 - 📫 Reach me on twitter: [@clay_stewart](https://twitter.com/clay_stewart)
 - 😄 Pronouns: he / him
 
