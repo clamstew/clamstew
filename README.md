@@ -4,6 +4,7 @@
 - 🌱 I’m helping make commerce better for everyone.
 - 📫 Reach me on twitter: [@clay_stewart](https://twitter.com/clay_stewart)
 - 😄 Pronouns: he / him
+- More at [clay.codes](https://www.clay.codes)
 
 <!--
 **clamstew/clamstew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
